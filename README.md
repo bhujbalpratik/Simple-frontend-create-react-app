@@ -1,1 +1,1 @@
-simple frontend app.
+simple frontend app 
